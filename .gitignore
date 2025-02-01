@@ -1,0 +1,6 @@
+node_modules/
+models/
+.env
+config/
+db.js
+.gitattributes
