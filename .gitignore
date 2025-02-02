@@ -1,10 +1,4 @@
 node_modules/
 models/
-<<<<<<< HEAD
 .env
 .gitattributes
-=======
-config/
-.env
-.gitattributes
->>>>>>> 3053c6cd7d3652a920b03973f892cb5e03ab5d90
