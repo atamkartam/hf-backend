@@ -9,7 +9,7 @@ const textGenerationRoutes = require("./routes/textGeneration");
 const textToImageRoutes = require("./routes/textToImage");
 
 const app = express();
-const port = process.env.PORT;
+const port = process.env.PORT || 5000;
 
 app.use(cors());
 app.use(bodyParser.json());
